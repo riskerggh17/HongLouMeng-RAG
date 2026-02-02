@@ -6,7 +6,7 @@
 
 ```python
 HongLouMeng-RAG/
-├── hongloumeng.txt                 ← 你的文本（可提供下载链接）
+├── hongloumeng.txt                 ← 文本数据
 ├── models/                         ← 手动下载的模型
 │   ├── bge-large-zh-v1.5/
 │   └── bge-reranker-v2-m3/
@@ -18,4 +18,5 @@ HongLouMeng-RAG/
 ├── LICENSE
 └── README.md
 ```
+
 
