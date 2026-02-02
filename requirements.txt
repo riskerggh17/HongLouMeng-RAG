@@ -1,0 +1,11 @@
+langchain==0.2.15
+langchain-community==0.2.17
+langchain-core==0.2.40
+langchain-huggingface==0.1.2
+langchain-chroma==0.1.5
+langchain-openai==0.1.12
+transformers==4.46.3
+torch==2.5.1
+sentencepiece==0.2.2
+python-dotenv==1.0.1
+tqdm==4.66.6
