@@ -36,7 +36,7 @@ HongLouMeng-RAG/
 └── README.md
 ```
 
-安装依赖
+创建虚拟环境后安装依赖
 
 ```python
 pip install -r requirements.txt
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 6.系统演示
 
-
+![image-20260203141334972](C:\Users\48444\AppData\Roaming\Typora\typora-user-images\image-20260203141334972.png)
 
 7.**🤝 贡献与反馈**
 
