@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 6.系统演示
 
-![image-20260203141334972](C:\Users\48444\AppData\Roaming\Typora\typora-user-images\image-20260203141334972.png)
+![image-20260203141334972](./image.png)
 
 7.**🤝 贡献与反馈**
 
@@ -76,4 +76,5 @@ pip install -r requirements.txt
 - 支持其他古典小说（如《三国演义》）
 - 添加 Web UI（Gradio / Streamlit）
 - 优化分块策略
+
 - 改进 prompt 设计
